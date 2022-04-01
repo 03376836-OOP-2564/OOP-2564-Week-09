@@ -136,7 +136,7 @@ namespace method_examples
             atm1.IntInternal = 10;
             atm1.IntProtectedInternal = 10;
             Console.WriteLine($"IntPublic = {atm1.IntPublic}");
-            Console.WriteLine($"IntPrivate = {atm1.IntPrivate");
+            Console.WriteLine($"IntPrivate = {atm1.IntPrivate}");
             Console.WriteLine($"IntProtected = {atm1.IntProtected}");
             Console.WriteLine($"IntInternal = {atm1.IntInternal}");
             Console.WriteLine($"IntProtectedInternal = {atm1.IntProtectedInternal}");
