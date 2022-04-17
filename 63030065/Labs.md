@@ -150,15 +150,12 @@ namespace method_examples
 ![image](https://user-images.githubusercontent.com/92078869/163711048-2bfc0587-9546-4953-adb6-f585dbe33323.png)
 
 ```
-
-  [บันทึกผล]
-   
 ```   
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
 ```
 
-  [ให้เขียนบรรยายตรงนี้]
+  ตรงกับที่คิดไว้ เพราะ private และ protected จะใช้ได้แค่ใน class ที่อยู่ ไม่สามารถใช้โดย class อื่นได้
    
 ```   
