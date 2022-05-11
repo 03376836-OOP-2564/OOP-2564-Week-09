@@ -98,7 +98,7 @@ namespace method_examples
 
 ```
 
-  [โปรแกรมไม่น่าทำงานได้ เพราะว่า IntProtected กับ IntPrivate อยู่คนละ Class]
+  [โปรแกรมไม่น่าทำงานได้ เพราะว่า IntProtected กับ IntPrivate เพราะว่าอยู่คนละ Class]
    
 ```   
 
@@ -159,6 +159,6 @@ namespace method_examples
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
 ```
 
-  เป็นไปเตามที่คาดไว้
+  [เป็นไปเตามที่คาดไว้]
    
 ```   
