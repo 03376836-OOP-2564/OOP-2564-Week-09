@@ -79,11 +79,8 @@ namespace method_examples
 
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
 
-  ![image](https://user-images.githubusercontent.com/91675464/167892023-7ca2abd3-9be1-4454-8625-f75f3566824c.png)
-   
-```   
+  ![image](https://user-images.githubusercontent.com/91675464/167892023-7ca2abd3-9be1-4454-8625-f75f3566824c.png)   
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
