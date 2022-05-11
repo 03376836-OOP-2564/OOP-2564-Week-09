@@ -98,7 +98,7 @@ namespace method_examples
 
 ```
 
-  [ให้เขียนความคาดหมายผลที่จะได้ตรงนี้]
+  น่าจะมีการ error เกิดขึ้น
    
 ```   
 
@@ -149,17 +149,13 @@ namespace method_examples
 ```
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
-
+![image](https://user-images.githubusercontent.com/92079547/167895515-bfe94c2c-dfb5-4cbe-a0fa-f50deb5e8a25.png)
   
-
-   
-```   
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
 ```
 
-  
+  เหมือน เนื่องจากมีการเรียกใช้ตัวแปรที่เป็น private and protected
    
 ```   
