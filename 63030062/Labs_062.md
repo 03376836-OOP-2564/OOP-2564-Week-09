@@ -78,9 +78,10 @@ namespace method_examples
 ```
 
 2. สร้าง project แล้วรันโปรแกรม
+
 3. บันทึกผล
 
-  ![myclass](.im/myclass.png)
+![myclass](./im/myclass.png)
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
@@ -147,7 +148,7 @@ namespace method_examples
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
 
-![error](.im/error.png)  
+![error](./im/error.png)
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
