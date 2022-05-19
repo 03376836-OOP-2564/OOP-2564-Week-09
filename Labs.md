@@ -81,7 +81,7 @@ namespace method_examples
 3. บันทึกผล
 ```
 
-  [บันทึกผล]
+ ![9 1](https://user-images.githubusercontent.com/92080427/169257987-23e4268a-f1ed-49c8-b356-9579663e2da4.png)
    
 ```   
 
@@ -151,7 +151,7 @@ namespace method_examples
 3. บันทึกผล
 ```
 
-  [บันทึกผล]
+  ![9 2](https://user-images.githubusercontent.com/92080427/169258397-baf97521-5c5a-4f7a-a517-3108012b1104.png)
    
 ```   
 
