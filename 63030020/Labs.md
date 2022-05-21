@@ -79,12 +79,9 @@ namespace method_examples
 
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
 
   ![image](https://user-images.githubusercontent.com/88755456/169650977-a970a33b-0605-485d-9dc7-3cec546f036c.png)
-   
-```   
-
+    
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
 ```
@@ -149,11 +146,9 @@ namespace method_examples
 ```
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
 
   ![image](https://user-images.githubusercontent.com/88755456/169651158-db5dbc8a-4b39-4f95-b846-d6a0d2d5d0a8.png)
-   
-```   
+     
 
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
