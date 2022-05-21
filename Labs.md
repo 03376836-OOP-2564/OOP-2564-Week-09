@@ -82,7 +82,7 @@ namespace method_examples
 3. บันทึกผล
 ```
 
-  [บันทึกผล]
+  ![picture3](https://user-images.githubusercontent.com/92082676/169660609-e412529f-08de-42d5-841f-384802d4b07e.png)
    
 ```   
 
