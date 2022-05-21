@@ -146,12 +146,8 @@ namespace method_examples
 ```
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
 
-  [บันทึกผล]
-   
-```   
-
+  ![picture3](https://user-images.githubusercontent.com/92082676/169660772-2c9ca9ac-7ef1-4281-83a6-54f310bddc54.png)
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
 ```
