@@ -80,12 +80,8 @@ namespace method_examples
 
 2. สร้าง project แล้วรันโปรแกรม
 3. บันทึกผล
-```
 
   ![picture3](https://user-images.githubusercontent.com/92082676/169660609-e412529f-08de-42d5-841f-384802d4b07e.png)
-   
-```   
-
 
 4. ผลที่ได้เหมือนหรือต่างจากที่คิดไว้อย่างไร  
 ```
